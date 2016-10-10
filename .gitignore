@@ -1,0 +1,27 @@
+# Xcode
+.AppleDouble
+.DS_Store
+.idea/
+.LSOverride
+.Spotlight-V100
+.Trashes
+Build
+DerivedData
+Icon
+profile
+xcuserdata/
+._*
+*/build/*
+*.hmap
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+*.xcworkspace
+
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+!default.xcworkspace
